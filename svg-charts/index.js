@@ -1,0 +1,1 @@
+diagramToPng = function(){};
