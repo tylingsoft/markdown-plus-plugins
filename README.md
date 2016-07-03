@@ -1,5 +1,8 @@
 # Markdown Plus plugins
 
+Here are the plugins for [Markdown Plus](http://tylingsoft.com/markdown-plus/).
+
+
 ## Plugins list
 
 ### Word count
